@@ -1,37 +1,18 @@
 <h1>Hello👋</h1>
-<h2>My skills:</h2>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://dl.flathub.org/media/org/godotengine/Godot.desktop/7a938908e081111b5d222cdb9c271700/icons/128x128@2/org.godotengine.Godot.desktop.png"> 
-  <a href="https://godotengine.org/" style="margin-left: 10px;">Godot</a> 
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> 
-  <a href="https://www.python.org/" style="margin-left: 10px;">Python</a> 
-</div>
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"> 
-  <a href="https://en.wikipedia.org/wiki/HTML" style="margin-left: 10px;">HTML</a> 
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://static.wikia.nocookie.net/wikies/images/a/a9/CSS3.png/revision/latest?cb=20160909123652&path-prefix=ru"> 
-  <a href="https://en.wikipedia.org/wiki/CSS" style="margin-left: 10px;">CSS</a> 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selector0073&show_icons=true)
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg"> 
-  <a href="https://unity.com/" style="margin-left: 10px;">Unity</a> 
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4"> 
-  <a href="https://git-scm.com/downloads" style="margin-left: 10px;">Git</a> 
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img height="40" src="https://sps-lab.org/post/2024_windows_bash/featured.png"> 
-  <a href="https://www.gnu.org/software/bash/" style="margin-left: 10px;">Bash</a> 
-</div>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Selector0073" frameborder="0"></iframe>
