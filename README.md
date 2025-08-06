@@ -1,5 +1,4 @@
-<h1>Hello👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hello%F0%9F%91%8B)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
