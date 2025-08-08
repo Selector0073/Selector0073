@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<div style="text-align: center; border: 1px solid black; width: 200px;">
+<div style="text-align: center">
 
     ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
     ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -12,6 +12,7 @@
     ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selector0073&show_icons=true)
 
