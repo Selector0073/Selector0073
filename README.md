@@ -2,4 +2,4 @@
 
 <a href="https://selector0073-portfolio.is-a.dev/">My portfolio</a>
 
-
+[![codewars_stats](https://codewars-pretty-stats.selector0073.com/?size=2&username=Selector0073)](https://github.com/Selector0073/codewars-pretty-stats/)
